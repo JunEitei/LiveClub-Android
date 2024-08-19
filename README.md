@@ -1,1 +1,1 @@
-# LiveClub的安卓端
+# LiveClubのAndroid側
